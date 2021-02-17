@@ -2,6 +2,9 @@
 Project: Classic
 </b></p>
 
+## Project Merge notice
+This project has been merged with Casual+, and this project is abandoned.
+
 ## About
 
 Project: Classic is a Community Server project for Team Fortress 2 Classic which brings more like TFC gameplay while retaining original TF2C gameplay style.
