@@ -3,7 +3,7 @@ Project: Classic
 </b></p>
 
 ## Project Merge notice
-This project has been merged with Casual+, and this project is abandoned.
+This project has been merged with Re:Quickplay, and this project is abandoned.
 
 ## About
 
